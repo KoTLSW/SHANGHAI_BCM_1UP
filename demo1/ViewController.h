@@ -11,5 +11,9 @@
 @interface ViewController : NSViewController
 
 
+//更改内容
+
+@property (weak) IBOutlet NSView *tab_View;
+
 @end
 
